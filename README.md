@@ -35,10 +35,18 @@ Python
 
 ### Modules used:
 * asyncio
+* tkinter
 * shazamio
 * pypresence
 * pydub
 * keyboard
+* os
+* time
+* ctypes
+
+### Notice!
+* You will need to have ffmpeg installed and added to PATH.
+* This is designed for Windows only.
 
 <!-- CONTRIBUTING -->
 ## Contributing
